@@ -1,0 +1,11 @@
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\bin\Debug\Manuilfe.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\bin\Debug\Manuilfe.Web.Mvc.Lib.pdb
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\obj\Debug\Manuilfe.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\obj\Debug\Manuilfe.Web.Mvc.Lib.pdb
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\bin\Debug\Manulife.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\bin\Debug\Manulife.Web.Mvc.Lib.pdb
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\obj\Debug\Manulife.Web.Mvc.Lib.csprojResolveAssemblyReference.cache
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\obj\Debug\Manulife.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\obj\Debug\Manulife.Web.Mvc.Lib.pdb
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\bin\Debug\NVelocity.dll
+E:\Project\dotNet Projects\Manulife.Web.Mvc\Manuilfe.Web.Mvc.Lib\bin\Debug\NVelocity.xml

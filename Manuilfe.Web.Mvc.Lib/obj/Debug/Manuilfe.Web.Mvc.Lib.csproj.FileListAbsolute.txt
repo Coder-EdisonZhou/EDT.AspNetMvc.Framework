@@ -1,0 +1,4 @@
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\bin\Debug\Manuilfe.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\bin\Debug\Manuilfe.Web.Mvc.Lib.pdb
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\obj\Debug\Manuilfe.Web.Mvc.Lib.dll
+E:\Project\dotNet Projects\Manulife.Web.Framework\Manuilfe.Web.Mvc.Lib\obj\Debug\Manuilfe.Web.Mvc.Lib.pdb
