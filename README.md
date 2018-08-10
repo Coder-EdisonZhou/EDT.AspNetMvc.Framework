@@ -5,7 +5,7 @@
 
 在该解决方案中，一共有两个项目：
 
-![markdown](https://images2015.cnblogs.com/blog/381412/201603/381412-20160309011644757-51819148.jpg)
+![project](https://images2015.cnblogs.com/blog/381412/201603/381412-20160309011644757-51819148.jpg)
 <br/>
 
 　　一个是App，它是一个由最小化的引用环境（只引用了System和System.Web，以及Mvc.Lib）搭建起来的一个Web应用项目，借助MVC核心类库（Mvc.Lib）实现了MVC模式。
